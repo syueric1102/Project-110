@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntelliJIntroduction.iml" filepath="$PROJECT_DIR$/IntelliJIntroduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project-110.iml" filepath="$PROJECT_DIR$/Project-110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gittest-master/gittest-master.iml" filepath="$PROJECT_DIR$/gittest-master/gittest-master.iml" />
     </modules>
   </component>
 </project>
